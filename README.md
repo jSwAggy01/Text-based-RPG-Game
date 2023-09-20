@@ -15,7 +15,7 @@
 
 ![UML diagram for class inheritance ](https://github.com/jSwAggy01/Text-based-RPG-Game/blob/main/UML%20Final%20Project_1.jpg?raw=true)
  
- ## Phase II
+## Phase II
 You will need to schedule a check-in for the second scrum meeting with the same reader you had your first scrum meeting with (using Calendly). Your entire team must be present. This meeting will occur on week 8 during lab time.
 * Before the meeting you should perform a sprint plan like you did in Phase I.
 * You should also update this README file by adding the following:
@@ -52,12 +52,10 @@ All group members will give a demo to the TA/reader during lab time. The TA/read
 * Plan one more sprint (that you will not necessarily complete before the end of the quarter). Your In-progress and In-testing columns should be empty (you are not doing more work currently) but your TODO column should have a full sprint plan in it as you have done before. This should include any known bugs (there should be some) or new features you would like to add. These should appear as issues/cards on your Project board.
 * Make sure your README file and Project board are up-to-date reflecting the current status of your project (e.g. any changes that you have made during the project such as changes to your class diagram). Previous versions should still be visible through your commit history. 
  
-## Screenshots
-
-### Final Project Output
+## Final Project Output
 <img src="https://user-images.githubusercontent.com/100899925/180346974-6af2206d-1c19-45dd-8e95-a65bd18a4420.png" height="500" width="1000" >
  
- ## Installation/Usage!
+## Installation/Usage!
  * Requirements: 
   * Install and enable the following:
      - C/C++ by Microsoft C/C++ Extension Pack by Microsoft C/C++ 
@@ -70,7 +68,7 @@ All group members will give a demo to the TA/reader during lab time. The TA/read
    - make
    - Note: For certain cases, you may need to delete the CMake cache file in order for Make to run correctly (only if you get an error)
  * From there, you can open up any terminal that your computer has, and change directories so that you're in that downloaded folder. Run ./bin/finalProject and the game will be executed :)
- ## Testing
+## Testing
  * For starters, we implemented code coverage software from lab 6 and modified it so that it could analyze how much lines of code our unit tests were covering in the class files
  * The Final Project was tested an validated with google test.
  * Each function of the test helped validate the code for each of the Character Classes.
