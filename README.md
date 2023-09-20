@@ -52,9 +52,9 @@ All group members will give a demo to the TA/reader during lab time. The TA/read
 * Plan one more sprint (that you will not necessarily complete before the end of the quarter). Your In-progress and In-testing columns should be empty (you are not doing more work currently) but your TODO column should have a full sprint plan in it as you have done before. This should include any known bugs (there should be some) or new features you would like to add. These should appear as issues/cards on your Project board.
 * Make sure your README file and Project board are up-to-date reflecting the current status of your project (e.g. any changes that you have made during the project such as changes to your class diagram). Previous versions should still be visible through your commit history. 
  
- ## Screenshots
- > Screenshots of the input/output after running your application
-   # Final Project Output
+## Screenshots
+
+### Final Project Output
 <img src="https://user-images.githubusercontent.com/100899925/180346974-6af2206d-1c19-45dd-8e95-a65bd18a4420.png" height="500" width="1000" >
  
  ## Installation/Usage!
