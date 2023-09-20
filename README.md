@@ -13,7 +13,7 @@
 
 ## Class Diagram
 
-<img src="UML Final Project.pdf?raw=true" width="1000">
+![UML diagram for the inheritance classes.](UML Final Project_1.jpg)
  
  > ## Phase II
  > You will need to schedule a check-in for the second scrum meeting with the same reader you had your first scrum meeting with (using Calendly). Your entire team must be present. This meeting will occur on week 8 during lab time.
