@@ -1,0 +1,72 @@
+Starting area:
+
+    You wake up from what seems to be an arduous but restful sleep. Having navigated the vageries of last night's nightmarish events, you step
+    out of the cave that sheltered you from the elements of mother nature. Outside, the cool, crisp winter air fills your lungs with oxygen. It's 
+    snowing now, a white fog surrounds the cave. To your left, a forest inhabitated by skeleton-like pine trees, footsteps can be seen in the snow,
+    heading in that direction. To your right, your snow mobile.
+
+Decision - Snow mobile:
+
+    Walking over to the snow mobile, you see the key still in the ignition. Are you sure you want to give up your search?
+
+    Decision - YES:
+
+        Taking one last look at the forest, you come to the conclusion that maybe you're better off saving your own skin. Live to fight another
+        day, that's what Dad would say. You start the ignition, and drive off into the clearing of trees from whence you came. A ghastly shriek
+        can be heard directly behind you. You shed a tear and close your eyes, as you already know how this ends.
+
+        *Somekind of monster sound should play: https://youtu.be/05ShtEhMKJQ?t (0:00-0:22)
+
+    Decision - NO:
+
+        To your left, a forest inhabitated by skeleton-like pine trees, footsteps can be seen in the snow,
+        heading in that direction.
+
+Decision - Forest:
+
+    Walking in the direction of the forest, you stop right in front of the footprints. The trail leads on, deeper into the waking wood. Rustling
+    can be heard from a thicket of bushes close by. Suddenly, a shadowy figure leaps out of the of shrubs! You fall back on your rear in shock!
+    Collecting your composure, you see that it's a golden retriever. It gives you a nice friendly sniff on your left hand, and then a lick.
+
+    DOGGO HAS BECOME YOUR COMPANION
+
+    Standing back up on your feet, you are ready to follow the trail. To your right, the footprints continue. To your left, DOGGO.
+
+Decision - DOGGO (1):
+
+    You look at DOGGO and give him a nice friendly pat on the head.
+
+    DOGGO HAS BEEN PET.
+
+    To your right, the footprints continue. To your left, DOGGO.
+
+        Decision - DOGGO (2):
+
+            You look at DOGGO again and give him a nice friendly pat on the head.
+
+            DOGGO HAS BEEN PET.
+
+            To your right, the footprints continue. To your left, DOGGO.
+
+            Decision - DOGGO (3):
+
+                You look at DOGGO once more and reach out to give him a nice friendly pat on the head. He avoids your hand. DOGGO no longer
+                requires anymore pets.
+
+                To your right, the footprints continue.
+
+Decision - Footprints:
+
+    You travel further into the forest. The downpour of snow seeming to cease the further you follow the footprints. Suddenly, it is silent.
+    The snow has ceased to fall. And the opacity from the snow starts to clear. As your field of vision increases, you see a faint figure,
+    directly 10 feet in front of you.
+
+    *Insert battle noise
+
+BATTLE:
+
+    The image of the figure renders as it comes closer. It's... MAGIC MAN! You're sworn nemesis!
+
+    *Insert fight music
+
+    *Insert fight options
