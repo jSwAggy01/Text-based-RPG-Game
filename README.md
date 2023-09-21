@@ -5,14 +5,14 @@
 This project utilized the continuous integration method of Github Actions. The work was divided among all three of us in which we all played an important role in the developemnt:
 - Jeff: Programming lead
 - Alex: Technical lead
-- Jason (me!): Design/documentation lead
+- Jason (me): Design/documentation lead
 
 We were all involved in the programming process; however, each of us spent the majority of our time on the areas we were best at and let our weaknesses be complemented by each others strengths.
 
 Along with Github Actions, we also used the Github Projects Kanban board to serve as a marker for our progress and as a backlog for issues that needed to be addressed and resolved.
 
 ## Phase I - Introduction
-Problem definition: How to make a game that can be experienced as an interactive story, tailored towards the player's decisions.
+**Problem definition**: How to make a game that can be experienced as an interactive story, tailored towards the player's decisions.
 
 Description:
 - We decided upon creating a game because the concept of text-based video game sounded like a fun/interesting idea for a project, seeing as how video games are one of the fields software developers may enter.
