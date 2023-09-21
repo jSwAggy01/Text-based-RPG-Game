@@ -48,17 +48,17 @@ Description:
  
 ## Installation/Usage!
 - Requirements: 
- - Install and enable the following:
-  - C/C++ by Microsoft C/C++ Extension Pack by Microsoft C/C++ 
-  - Themes by Microsoft CMake Tools by Microsoft 
-  - YAML by Red Hat 
-  - Better C++ Syntax by Jeff Hykin 
+  - Install and enable the following:
+    - C/C++ by Microsoft C/C++ Extension Pack by Microsoft C/C++ 
+    - Themes by Microsoft CMake Tools by Microsoft 
+    - YAML by Red Hat 
+    - Better C++ Syntax by Jeff Hykin 
   - (AND make sure you are running the redhat compiler kit in your IDE)
 - The way to install this game is to download the files from the repository via .zip and in an IDE, run the commands:
- - cmake .
- - make
- - Note: For certain cases, you may need to delete the CMake cache file in order for Make to run correctly (only if you get an error)
- - From there, you can open up any terminal that your computer has, and change directories so that you're in that downloaded folder. Run ./bin/finalProject and the game will be executed :)
+  - cmake .
+  - make
+  - Note: For certain cases, you may need to delete the CMake cache file in order for Make to run correctly (only if you get an error)
+  - From there, you can open up any terminal that your computer has, and change directories so that you're in that downloaded folder. Run ./bin/finalProject and the game will be executed :)
 
 ## Testing
 - For starters, we implemented code coverage software from lab 6 and modified it so that it could analyze how much lines of code our unit tests were covering in the class files
