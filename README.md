@@ -2,7 +2,7 @@
  > Authors: [Aszet07](https://github.com/aszet07) [jSwAggy01](https://github.com/jSwAggy01) [CaptainPig-gy](https://github.com/CaptainPig-gy)
 
 ## Technical Summary
-This project utilized the continuous integration method of Github Actions. The work was divided among all three of us in which we all played a important role in the developemnt:
+This project utilized the continuous integration method of Github Actions. The work was divided among all three of us in which we all played an important role in the developemnt:
 - Jeff: Programming lead
 - Alex: Technical lead
 - Jason (me!): Design/documentation lead
