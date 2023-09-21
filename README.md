@@ -21,7 +21,7 @@ Description:
 - As far as data structures, we might be using trees where the root node represents the start of the game, and the other nodes represent decisions/outcomes. Leaves will represent good or bad endings.
 - Likewise, the features to be implemented are: choices presented via text through a terminal, outcomes telling the player whether or not the decision they made was a desirable one, a companion to accompany the player through this role-playing adventure, and immersive gameplay.
 
-## Class Diagram
+## Inheritance Diagram
 
 ![UML diagram for class inheritance ](https://github.com/jSwAggy01/Text-based-RPG-Game/blob/main/UML%20Final%20Project_1.jpg?raw=true)
  
