@@ -11,7 +11,7 @@ We were all involved in the programming process; however, each of us spent the m
 
 Along with Github Actions, we also used the Github Projects Kanban board to serve as a marker for our progress and as a backlog for issues that needed to be addressed and resolved.
 
-## Phase I - Introduction
+## Introduction
 **Problem definition**: How to make a game that can be experienced as an interactive story, tailored towards the player's decisions.
 
 Description:
@@ -25,7 +25,7 @@ Description:
 
 ![UML diagram for class inheritance ](https://github.com/jSwAggy01/Text-based-RPG-Game/blob/main/UML%20Final%20Project_1.jpg?raw=true)
  
-## Phase II - Questions
+## Questions
 - What design pattern(s) did you use?:
 
 >       We used scrum to organize the team.
