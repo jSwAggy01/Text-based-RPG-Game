@@ -1,7 +1,7 @@
 # Text-based RPG Game
  > Authors: [Aszet07](https://github.com/aszet07) [jSwAggy01](https://github.com/jSwAggy01) [CaptainPig-gy](https://github.com/CaptainPig-gy)
 
-## Technical Summary
+## Background
 This project utilized the continuous integration method of Github Actions. The work was divided among all three of us in which we all played an important role in the development:
 - Jeff: Programming lead
 - Alex: Technical lead
@@ -10,6 +10,8 @@ This project utilized the continuous integration method of Github Actions. The w
 We were all involved in the programming process; however, each of us spent the majority of our time on the areas we were best at and let our weaknesses be complemented by each others strengths.
 
 Along with Github Actions, we also used the Github Projects Kanban board to serve as a marker for our progress and as a backlog for issues that needed to be addressed and resolved.
+
+**Note: The original repo is inaccessible to 3rd-parties and so the Kanban board, issues, and pull requests _cannot_ be displayed.**
 
 ## Introduction
 **Problem definition**: How to make a game that can be experienced as an interactive story, tailored towards the player's decisions.
